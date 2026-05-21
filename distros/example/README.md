@@ -1,3 +1,9 @@
+---
+name: "example"
+description: "Minimal placeholder distro — replace with a real composition"
+status: experimental
+---
+
 # example
 
 Placeholder distro. Replace this with a real distro composition.
@@ -6,5 +12,5 @@ Placeholder distro. Replace this with a real distro composition.
 
 | Field | Value |
 |-------|-------|
-| devcontainer | arch-base@v1.0.0 |
-| packages | shell-zsh@v1.0.0 |
+| devcontainer | arch-base@v0.1.0 |
+| packages | shell-zsh@v0.1.0 |
