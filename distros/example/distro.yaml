@@ -1,5 +1,5 @@
 name: example
 description: Minimal placeholder distro — replace with a real composition
-devcontainer: arch-base@v1.0.0
+devcontainer: arch-base@v0.1.0
 packages:
-  - shell-zsh@v1.0.0
+  - shell-zsh@v0.1.0
