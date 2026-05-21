@@ -1,0 +1,12 @@
+name: y4n/backend-python-base
+description: Debian Slim environment for Python API development and testing
+devcontainer: debian-slim@v0.1.0
+packages:
+  - cli-essentials@v0.1.0
+  - git-extras@v0.1.0
+  - zsh-config@v0.1.0
+  - neovim-config@v0.1.0
+  - python-runtime@v0.1.0
+  - api-dev@v0.1.0
+  - db-clients@v0.1.0
+  - ruff@v0.1.0
