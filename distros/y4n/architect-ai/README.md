@@ -37,7 +37,7 @@ A software architect rarely executes builds or runs tests directly — they navi
 
 ```yaml
 # dpod.yaml
-distro: y4n/architect-ai@v0.2.0
+distro: y4n/architect-ai@v0.3.2
 ```
 
 Run `dpod-seed sync` to materialise the environment.
